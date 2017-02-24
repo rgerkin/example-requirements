@@ -1,6 +1,6 @@
 # Example Binder with requirements.txt
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/rgerkin/example-requirements)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/rgerkin/jupyter-demo)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
